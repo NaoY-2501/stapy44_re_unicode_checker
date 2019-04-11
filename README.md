@@ -9,7 +9,7 @@
 
 ### unicode_scraper.py
 
-https://www.fileformat.info/info/unicode/category/をスクレイピングし、UnicodeカテゴリとUnicodeコードポイントの一覧を作成する。
+https://www.fileformat.info/info/unicode/category/ をスクレイピングし、UnicodeカテゴリとUnicodeコードポイントの一覧を作成する。
 
 対象のカテゴリは以下。
 
