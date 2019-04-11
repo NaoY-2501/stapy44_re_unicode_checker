@@ -9,7 +9,7 @@
 
 ### unicode_scraper.py
 
-https://www.fileformat.info/info/unicode/category/ をスクレイピングし、UnicodeカテゴリとUnicodeコードポイントの一覧を作成する。
+https://www.fileformat.info/info/unicode/category/ をスクレイピングし、`data`配下にUnicodeカテゴリとUnicodeコードポイントの一覧を作成する。
 
 対象のカテゴリは以下。
 
@@ -24,4 +24,4 @@ https://www.fileformat.info/info/unicode/category/ をスクレイピングし�
 
 スクレイピングしたUnicodeカテゴリごとに `\w`にマッチする/しない文字をカウントする。
 
-また、マッチしない文字の一覧を作成する。
+また、マッチしない文字の一覧を`output`配下に作成する。
